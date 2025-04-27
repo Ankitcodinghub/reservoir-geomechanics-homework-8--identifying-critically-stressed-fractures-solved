@@ -1,0 +1,1 @@
+# reservoir-geomechanics-homework-8--identifying-critically-stressed-fractures-solved
